@@ -26,7 +26,7 @@ public class ArbolitoNavidad {
         }
 
         //Tronco
-        int largoTronco = 3;
+        int largoTronco = 1;
         for (int base = 0; base < largoTronco; base++) {
             //Espacios en blando
             for (int espacio = 0; espacio < (altura - 2); espacio++) {
